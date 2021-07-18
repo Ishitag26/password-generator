@@ -3,9 +3,9 @@ This basically generates password and get it copied to the respective text area.
 
 ### Built with 
 - HTML
-- 
+
 - CSS
-- 
+
 - Javascript
 
 ### Links
